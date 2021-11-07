@@ -1,0 +1,16 @@
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\bin\Debug\Lab6.exe.config
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.exe
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.pdb
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.FoodForm.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.BillsForm.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.BillsDetailForm.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.AccountManager.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.ModifyAccount.resources
+E:\third_Year\LapTrinhCSDL\LabExercise\Labs\Lab6\Lab6\obj\Debug\Lab6.TableForm.resources
