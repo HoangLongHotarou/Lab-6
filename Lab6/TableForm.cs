@@ -44,7 +44,7 @@ namespace Lab6
             dgvTable.Columns["ID"].HeaderText = "Mã Bàn";
             dgvTable.Columns["Name"].HeaderText = "Tên bàn";
             dgvTable.Columns["Status"].HeaderText = "Trạng thái";
-            dgvTable.Columns["Capacity"].HeaderText = "Lượng người ngồn";
+            dgvTable.Columns["Capacity"].HeaderText = "Lượng người ngồi";
         }
 
         private void dgvTable_CellBeginEdit(object sender, DataGridViewCellCancelEventArgs e)
@@ -138,7 +138,7 @@ namespace Lab6
                     sqlConnection.Close();
                     if (numOfRowsEffected == 1)
                     {
-                        MessageBox.Show("Xóa món ăn thành công");
+                        MessageBox.Show("Xóa bàn thành công");
                         indexs.Remove(row.Index);
                         //Loading database
                         LoadTable();
